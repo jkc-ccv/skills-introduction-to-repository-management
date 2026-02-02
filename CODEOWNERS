@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @jkc-ccv
+/src/backend/database.py      @jkc-ccv
+/src/backend/routers/auth.py  @jkc-ccv
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @jkc-ccv
